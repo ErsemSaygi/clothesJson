@@ -1,7 +1,7 @@
 
 
 {
-  "products": [
+  
     {
       "productName": "Ürün1",
       "firmName": "Firma1",
@@ -62,5 +62,5 @@
       "price": 55.00,
       "imagePath": "/images/product10.jpg"
     }
-  ]
+  
 }
