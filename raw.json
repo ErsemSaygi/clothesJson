@@ -1,0 +1,66 @@
+
+
+{
+  "products": [
+    {
+      "productName": "Ürün1",
+      "firmName": "Firma1",
+      "price": 50.99,
+      "imagePath": "/images/product1.jpg"
+    },
+    {
+      "productName": "Ürün2",
+      "firmName": "Firma2",
+      "price": 39.99,
+      "imagePath": "/images/product2.jpg"
+    },
+    {
+      "productName": "Ürün3",
+      "firmName": "Firma3",
+      "price": 120.50,
+      "imagePath": "/images/product3.jpg"
+    },
+    {
+      "productName": "Ürün4",
+      "firmName": "Firma4",
+      "price": 19.95,
+      "imagePath": "/images/product4.jpg"
+    },
+    {
+      "productName": "Ürün5",
+      "firmName": "Firma5",
+      "price": 79.99,
+      "imagePath": "/images/product5.jpg"
+    },
+    {
+      "productName": "Ürün6",
+      "firmName": "Firma6",
+      "price": 64.00,
+      "imagePath": "/images/product6.jpg"
+    },
+    {
+      "productName": "Ürün7",
+      "firmName": "Firma7",
+      "price": 29.99,
+      "imagePath": "/images/product7.jpg"
+    },
+    {
+      "productName": "Ürün8",
+      "firmName": "Firma8",
+      "price": 89.50,
+      "imagePath": "/images/product8.jpg"
+    },
+    {
+      "productName": "Ürün9",
+      "firmName": "Firma9",
+      "price": 45.75,
+      "imagePath": "/images/product9.jpg"
+    },
+    {
+      "productName": "Ürün10",
+      "firmName": "Firma10",
+      "price": 55.00,
+      "imagePath": "/images/product10.jpg"
+    }
+  ]
+}
