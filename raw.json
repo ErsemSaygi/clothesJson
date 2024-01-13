@@ -1,6 +1,6 @@
 
 
-{
+[
   
     {
       "productName": "Ürün1",
@@ -63,4 +63,4 @@
       "imagePath": "/images/product10.jpg"
     }
   
-}
+]
